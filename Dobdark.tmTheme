@@ -43,6 +43,19 @@
             </dict>
             <dict>
                 <key>name</key>
+                <string>warning</string>
+                <key>scope</key>
+                <string>warning</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#FFFFFF</string>
+                    <key>background</key>
+                    <string>#FF9300</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
                 <string>Comment</string>
                 <key>scope</key>
                 <string>comment</string>
